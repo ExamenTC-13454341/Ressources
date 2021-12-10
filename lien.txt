@@ -1,0 +1,4 @@
+SVG guidlines
+https://developer.mozila.org/en-US/docs/Mozila/developer_guide/SVG_Guidelines
+W3C Vibration
+https://www.w3.org/TR/vibration/
